@@ -5,7 +5,7 @@ const CONFIG = {
     btnIntro: '^^HiHi^^',
     title: 'avocado ice cream 🥰',
     desc: 'Sana ma motivate ka gumawa',
-    btnYes: 'bumangon kana',
+    btnYes: 'YES, KASI LAB KO SI MIN',
     btnNo: 'Ayaw :3',
     question: 'Ma baban na POGO ayaw mo parin gumawa <3',
     btnReply: 'kiss pam pagana <3',
