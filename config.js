@@ -5,7 +5,7 @@ const CONFIG = {
     btnIntro: '^^WHY???^^',
     title: 'I WANT TO EATTT! I'M HUNGRY!',
     desc: 'BUY FOOD NOW!',
-    btnYes: 'YES!!',
+    btnYes: 'YES!!❤️',
     btnNo: 'NO :3',
     question: 'YOU WILL BUY ME FOOD NOW?',
     btnReply: 'YEHEYYY!',
